@@ -1,0 +1,37 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 50px;
+}
+ span{
+     color:yellow;
+ }
+ section{
+     display: flex;
+ }
+
+ .half{
+     width: 50%;
+     padding-left: 10%;
+
+ }
+ .half img{
+     width: 80%;
+     padding-right: 5%;
+ }
+ .link-button{
+        text-decoration: none;
+        background-image: linear-gradient( orange, yellow); 
+        padding: 10px;
+        border-radius: 5px;
+        color: black;
+        font-weight: 800;
+ }
+ .banner{
+
+    background-image: url(hello.png);
+    background-repeat: no-repeat;
+ }
